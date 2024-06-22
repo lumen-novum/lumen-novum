@@ -29,8 +29,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd
-          pwd
           git clone https://github.com/dylanaraps/neofetch
           cd neofetch
-          make install
-          neofetch
+          ./neofetch
