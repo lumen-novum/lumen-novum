@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://lumen-novum.github.io"><img src="neo.gif"></a>
 
 <!--
 **lumen-novum/lumen-novum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,5 @@
+# Exclude video source files
+*.mp4
+*.mov
+# Exclude blender project files
+*.blend
