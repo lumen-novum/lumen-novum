@@ -3,3 +3,5 @@
 *.mov
 # Exclude blender project files
 *.blend
+# Exclude MacOS files
+.DS_Store
