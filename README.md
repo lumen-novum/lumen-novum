@@ -1,1 +1,1 @@
-<iframe src="https://lumen-novum.github.io"></iframe>
+<img src="https://github.com/lumen-novum/lumen-novum.github.io/releases/latest/download/screenshot.png">
